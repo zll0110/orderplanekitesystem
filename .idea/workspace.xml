@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f68a899-c08e-4bd9-80fd-d5c1bd0e580e" name="Default Changelist" comment="" />
+    <list default="true" id="8f68a899-c08e-4bd9-80fd-d5c1bd0e580e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Flight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Flight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dao/IFlightDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/IFlightDao.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,6 +96,7 @@
       <updated>1610348980403</updated>
       <workItem from="1610348983013" duration="12227000" />
       <workItem from="1610409699766" duration="3265000" />
+      <workItem from="1610433491282" duration="888000" />
     </task>
     <task id="LOCAL-00001" summary="添加座位号、座位总数，建立接口IFlightDao">
       <created>1610424037415</created>
@@ -100,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610424037415</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="添加座位号、座位总数，建立接口IFlightDao">
+      <created>1610433607060</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610433607060</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,10 +147,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="530" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1610423497554" />
-    <state x="467" y="41" key="CommitChangelistDialog2" timestamp="1610424035627">
+    <state x="467" y="41" key="CommitChangelistDialog2" timestamp="1610433606029">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="467" y="41" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1610424035627" />
+    <state x="467" y="41" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1610433606029" />
     <state x="635" y="320" key="Github.ShareDialog" timestamp="1610433559461">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -147,10 +159,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="301" y="71" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1610423454252" />
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1610424130400">
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1610433618374">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1610424130400" />
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1610433618374" />
     <state x="462" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1610433529099">
       <screen x="0" y="0" width="1600" height="860" />
     </state>

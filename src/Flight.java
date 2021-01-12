@@ -2,7 +2,7 @@ public class Flight {
     private String id;
     private String planetype;  //飞机型号
     private String seatsNo;  //座位号
-    private Float totalSeatsNum; //空座位数量
+    private String totalSeatsNum; //空座位数量
     private String departureAirPort;  //出发机场
     private String destinationAirPort;  //到达机场
     private String DepartureDate;  //出发日期
