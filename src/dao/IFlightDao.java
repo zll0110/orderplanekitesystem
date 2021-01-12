@@ -1,6 +1,5 @@
 package dao;
 
-import dao.Flight;
 
 import java.util.Set;
 
