@@ -3,8 +3,8 @@ package dao;
 
 import java.util.Set;
 
-public interface IFlightDao{
-    void insertFlight(Flight flight);
+public interface IFlightDao {
+    insertFlight(Flight flight) ;
     Set<Flight>getAllFlight();
     Flight getFlightByDepartureTime(String departureTime);
     Flight getFlightByDepartureAirPort(String departureAirPort);

@@ -1,3 +1,5 @@
+import java.util.Set;
+
 public class Order {
     private  String id;
     private  float jpjg;  //机票价格
@@ -8,7 +10,8 @@ public class Order {
     private  float yhj;  //优惠卷
     private  float hszj;  //含税总价
 
-    private  Customer customers[];
+    private Set<Customer>customerSet;
+    private Flight flight;
 
     public String getId() {
         return id;
